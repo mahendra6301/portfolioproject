@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Foldit
+- Font Author: Copyright 2021-2022 The Foldit Font Project Authors (https://www.github.com/sophiadesign/GF-Foldit)
+- Font Source: http://fonts.gstatic.com/s/foldit/v3/aFTI7PF3Y3c9WdjNrRVE0Rk2b7j8XpAMmapUYLHkN80.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
